@@ -50,7 +50,7 @@ Based on the analysis of the dataset, the following key insights were identified
 - **The top-paying opportunities** are offered by companies across a variety of industries, indicating that high-paying Data Analyst roles are not limited to a single sector but are in demand across the broader job market.
 - **All of the top 10 positions are remote ("Anywhere")** and include available salary information, highlighting the strong availability of well-compensated remote opportunities for Data Analysts.
 
-![top-jobs](project_sql\assets\topjobs.png)
+![Top Jobs](project_sql/assets/topjobs.png)
 *Bar graph visualizing the top 10 most in-demand skills among top-paying Data Analyst roles; ChatGPT generated this graph from SQL query results.*
 
 
@@ -94,7 +94,7 @@ Based on the analysis of the dataset, the following key insights were identified
 - **Top-paying Data Analyst jobs** in the dataset offer salaries ranging from $184K to $256K per year, with an average salary of about $209K.  
 - **SmartAsset, Inclusively, and AT&T** appear most frequently among the top-paying job postings, indicating they actively seek Data Analysts with strong technical skills.
 
-![In-demand-skills](project_sql\assets\in-demand-skills.png)
+![In-Demand Skills](project_sql/assets/in-demand-skills.png)
 *Bar graph visualizing the top 10 most in-demand skills among top-paying Data Analyst roles; ChatGPT generated this graph from SQL query results.*
 
 ### 3. In-Demand Skills for Data Analysts
